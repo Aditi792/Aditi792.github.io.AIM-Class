@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,300&family=Ubuntu:ital,wght@0,400;1,300;1,400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    box-sizing: border-box;
+    font-family: serif,sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+    list-style: none;
+}
+
+
+/* navber */
+
+.navbar{
+    padding: 1% 15%;
+}
+.nav{
+    padding: 0 3%;
+    color: rgb(63, 22, 63);
+}
+
+/* body */
+
+/* welcome-section */
+
+.welcome{
+    background-color: #A062DE;
+    padding:3% 15%;
+
+}
+.first-heading{
+    font-family: 'Montserrat', sans-serif;;
+   font-size: 3.2rem;
+   line-height: 1.5;
+}  
+.col1{
+    text-align: left;
+    padding: 3% 0 ;
+}
+.col2{
+    text-align: right;
+}
+
+.sir{
+    border-radius: 50%;
+    width: 23rem;
+    text-align: right;
+}
+
+/* feature-section */
+
+.feature{
+    padding: 5% 15%;
+}
+.feature-icon{
+    font-size: 3rem;
+    color: #4e2677;
+    padding: 12% 0;
+}
+
+/* course-section */
+
+
+/* .class-sec{
+    background-color:#ba86ee;
+    padding: 3% 15% ;
+    z-index: 1;
+}
+.class-pic{
+    border-radius: 50%;
+    width: 15rem;
+}
+
+.pic2{
+    top: 3rem;
+    left: 3rem;
+}
+.pic3{
+    top: 5rem;
+    left:6rem;
+}
+ul{
+    list-style-type: none;
+}
+ul li {
+    padding-right: 5px;
+} */
+
+
+/* course*/
+
+.other-skill{
+    background-color: #ba86ee;;
+    padding: 3% 15%;
+    text-align: left;
+}
+div img{
+    border-radius: 50%;
+}
+.top-skill{
+    padding: 3% 0;
+    font-family: 'Montserrat-bold', sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+ul li {
+    padding-right: 20px;
+}
+.course-icon{
+    padding-right: 12px;
+}
+.skill-padding{
+    padding: 0 37%;
+}
+
+
+
+/* achivers-section */
+
+#achivers-section{
+    background-color:#fff;
+    padding: 3% 15% ;
+}
+.pic{
+    border-radius: 50%;
+    width: 30%;
+    text-align: right;
+    float: left; 
+}
+.carousel-item{
+    padding: 3% 15%;
+}
+.bio{
+    padding: 7% 0;
+    line-height: 1.5;
+}
+.carousel-control-prev-icon , .carousel-control-next-icon{
+   
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+/* footer */
+
+.footer{
+    padding: 3% 15%;
+    text-align: center;
+}
+#contact{
+    overflow: hidden;
+
+}
+
+.social-media{
+   padding: 2%;
+}
+.icon{
+    padding: 0 1%;
+    font-size:30px;
+}
+.call{
+    padding: 3% 13%;
+    text-align: center ;
+    
+}
+.column {
+    float: left;
+    width: 50%;
+  }
+  .c1{
+    padding: 0 10%;
+  }
+  .contact-icon{
+    font-size: 25px;
+  }
+
+
